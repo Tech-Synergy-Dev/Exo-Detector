@@ -1,0 +1,884 @@
+[
+    {
+        "tic_id": 13917,
+        "sector": 2,
+        "num_candidates": 0,
+        "candidates": [],
+        "period": null,
+        "period_uncertainty": null,
+        "transit_parameters": {
+            "depth": null,
+            "duration": null,
+            "snr": null
+        },
+        "score": 0.0
+    },
+    {
+        "tic_id": 13917,
+        "sector": 4,
+        "num_candidates": 0,
+        "candidates": [],
+        "period": null,
+        "period_uncertainty": null,
+        "transit_parameters": {
+            "depth": null,
+            "duration": null,
+            "snr": null
+        },
+        "score": 0.0
+    },
+    {
+        "tic_id": 13917,
+        "sector": 5,
+        "num_candidates": 0,
+        "candidates": [],
+        "period": null,
+        "period_uncertainty": null,
+        "transit_parameters": {
+            "depth": null,
+            "duration": null,
+            "snr": null
+        },
+        "score": 0.0
+    },
+    {
+        "tic_id": 16886,
+        "sector": 1,
+        "num_candidates": 0,
+        "candidates": [],
+        "period": null,
+        "period_uncertainty": null,
+        "transit_parameters": {
+            "depth": null,
+            "duration": null,
+            "snr": null
+        },
+        "score": 0.0
+    },
+    {
+        "tic_id": 18917,
+        "sector": 1,
+        "num_candidates": 0,
+        "candidates": [],
+        "period": null,
+        "period_uncertainty": null,
+        "transit_parameters": {
+            "depth": null,
+            "duration": null,
+            "snr": null
+        },
+        "score": 0.0
+    },
+    {
+        "tic_id": 26968,
+        "sector": 1,
+        "num_candidates": 0,
+        "candidates": [],
+        "period": null,
+        "period_uncertainty": null,
+        "transit_parameters": {
+            "depth": null,
+            "duration": null,
+            "snr": null
+        },
+        "score": 0.0
+    },
+    {
+        "tic_id": 26968,
+        "sector": 2,
+        "num_candidates": 0,
+        "candidates": [],
+        "period": null,
+        "period_uncertainty": null,
+        "transit_parameters": {
+            "depth": null,
+            "duration": null,
+            "snr": null
+        },
+        "score": 0.0
+    },
+    {
+        "tic_id": 32807,
+        "sector": 2,
+        "num_candidates": 0,
+        "candidates": [],
+        "period": null,
+        "period_uncertainty": null,
+        "transit_parameters": {
+            "depth": null,
+            "duration": null,
+            "snr": null
+        },
+        "score": 0.0
+    },
+    {
+        "tic_id": 32807,
+        "sector": 3,
+        "num_candidates": 0,
+        "candidates": [],
+        "period": null,
+        "period_uncertainty": null,
+        "transit_parameters": {
+            "depth": null,
+            "duration": null,
+            "snr": null
+        },
+        "score": 0.0
+    },
+    {
+        "tic_id": 32807,
+        "sector": 4,
+        "num_candidates": 0,
+        "candidates": [],
+        "period": null,
+        "period_uncertainty": null,
+        "transit_parameters": {
+            "depth": null,
+            "duration": null,
+            "snr": null
+        },
+        "score": 0.0
+    },
+    {
+        "tic_id": 39857,
+        "sector": 3,
+        "num_candidates": 0,
+        "candidates": [],
+        "period": null,
+        "period_uncertainty": null,
+        "transit_parameters": {
+            "depth": null,
+            "duration": null,
+            "snr": null
+        },
+        "score": 0.0
+    },
+    {
+        "tic_id": 39857,
+        "sector": 4,
+        "num_candidates": 0,
+        "candidates": [],
+        "period": null,
+        "period_uncertainty": null,
+        "transit_parameters": {
+            "depth": null,
+            "duration": null,
+            "snr": null
+        },
+        "score": 0.0
+    },
+    {
+        "tic_id": 40857,
+        "sector": 1,
+        "num_candidates": 0,
+        "candidates": [],
+        "period": null,
+        "period_uncertainty": null,
+        "transit_parameters": {
+            "depth": null,
+            "duration": null,
+            "snr": null
+        },
+        "score": 0.0
+    },
+    {
+        "tic_id": 40857,
+        "sector": 2,
+        "num_candidates": 0,
+        "candidates": [],
+        "period": null,
+        "period_uncertainty": null,
+        "transit_parameters": {
+            "depth": null,
+            "duration": null,
+            "snr": null
+        },
+        "score": 0.0
+    },
+    {
+        "tic_id": 40857,
+        "sector": 3,
+        "num_candidates": 0,
+        "candidates": [],
+        "period": null,
+        "period_uncertainty": null,
+        "transit_parameters": {
+            "depth": null,
+            "duration": null,
+            "snr": null
+        },
+        "score": 0.0
+    },
+    {
+        "tic_id": 41201,
+        "sector": 2,
+        "num_candidates": 0,
+        "candidates": [],
+        "period": null,
+        "period_uncertainty": null,
+        "transit_parameters": {
+            "depth": null,
+            "duration": null,
+            "snr": null
+        },
+        "score": 0.0
+    },
+    {
+        "tic_id": 41201,
+        "sector": 3,
+        "num_candidates": 0,
+        "candidates": [],
+        "period": null,
+        "period_uncertainty": null,
+        "transit_parameters": {
+            "depth": null,
+            "duration": null,
+            "snr": null
+        },
+        "score": 0.0
+    },
+    {
+        "tic_id": 45264,
+        "sector": 1,
+        "num_candidates": 0,
+        "candidates": [],
+        "period": null,
+        "period_uncertainty": null,
+        "transit_parameters": {
+            "depth": null,
+            "duration": null,
+            "snr": null
+        },
+        "score": 0.0
+    },
+    {
+        "tic_id": 45264,
+        "sector": 2,
+        "num_candidates": 0,
+        "candidates": [],
+        "period": null,
+        "period_uncertainty": null,
+        "transit_parameters": {
+            "depth": null,
+            "duration": null,
+            "snr": null
+        },
+        "score": 0.0
+    },
+    {
+        "tic_id": 45264,
+        "sector": 4,
+        "num_candidates": 0,
+        "candidates": [],
+        "period": null,
+        "period_uncertainty": null,
+        "transit_parameters": {
+            "depth": null,
+            "duration": null,
+            "snr": null
+        },
+        "score": 0.0
+    },
+    {
+        "tic_id": 46218,
+        "sector": 5,
+        "num_candidates": 0,
+        "candidates": [],
+        "period": null,
+        "period_uncertainty": null,
+        "transit_parameters": {
+            "depth": null,
+            "duration": null,
+            "snr": null
+        },
+        "score": 0.0
+    },
+    {
+        "tic_id": 51358,
+        "sector": 3,
+        "num_candidates": 0,
+        "candidates": [],
+        "period": null,
+        "period_uncertainty": null,
+        "transit_parameters": {
+            "depth": null,
+            "duration": null,
+            "snr": null
+        },
+        "score": 0.0
+    },
+    {
+        "tic_id": 51358,
+        "sector": 5,
+        "num_candidates": 0,
+        "candidates": [],
+        "period": null,
+        "period_uncertainty": null,
+        "transit_parameters": {
+            "depth": null,
+            "duration": null,
+            "snr": null
+        },
+        "score": 0.0
+    },
+    {
+        "tic_id": 51536,
+        "sector": 1,
+        "num_candidates": 0,
+        "candidates": [],
+        "period": null,
+        "period_uncertainty": null,
+        "transit_parameters": {
+            "depth": null,
+            "duration": null,
+            "snr": null
+        },
+        "score": 0.0
+    },
+    {
+        "tic_id": 51536,
+        "sector": 3,
+        "num_candidates": 0,
+        "candidates": [],
+        "period": null,
+        "period_uncertainty": null,
+        "transit_parameters": {
+            "depth": null,
+            "duration": null,
+            "snr": null
+        },
+        "score": 0.0
+    },
+    {
+        "tic_id": 51536,
+        "sector": 5,
+        "num_candidates": 0,
+        "candidates": [],
+        "period": null,
+        "period_uncertainty": null,
+        "transit_parameters": {
+            "depth": null,
+            "duration": null,
+            "snr": null
+        },
+        "score": 0.0
+    },
+    {
+        "tic_id": 53605,
+        "sector": 4,
+        "num_candidates": 0,
+        "candidates": [],
+        "period": null,
+        "period_uncertainty": null,
+        "transit_parameters": {
+            "depth": null,
+            "duration": null,
+            "snr": null
+        },
+        "score": 0.0
+    },
+    {
+        "tic_id": 53605,
+        "sector": 5,
+        "num_candidates": 0,
+        "candidates": [],
+        "period": null,
+        "period_uncertainty": null,
+        "transit_parameters": {
+            "depth": null,
+            "duration": null,
+            "snr": null
+        },
+        "score": 0.0
+    },
+    {
+        "tic_id": 57975,
+        "sector": 5,
+        "num_candidates": 0,
+        "candidates": [],
+        "period": null,
+        "period_uncertainty": null,
+        "transit_parameters": {
+            "depth": null,
+            "duration": null,
+            "snr": null
+        },
+        "score": 0.0
+    },
+    {
+        "tic_id": 62245,
+        "sector": 2,
+        "num_candidates": 0,
+        "candidates": [],
+        "period": null,
+        "period_uncertainty": null,
+        "transit_parameters": {
+            "depth": null,
+            "duration": null,
+            "snr": null
+        },
+        "score": 0.0
+    },
+    {
+        "tic_id": 62245,
+        "sector": 5,
+        "num_candidates": 0,
+        "candidates": [],
+        "period": null,
+        "period_uncertainty": null,
+        "transit_parameters": {
+            "depth": null,
+            "duration": null,
+            "snr": null
+        },
+        "score": 0.0
+    },
+    {
+        "tic_id": 65042,
+        "sector": 2,
+        "num_candidates": 0,
+        "candidates": [],
+        "period": null,
+        "period_uncertainty": null,
+        "transit_parameters": {
+            "depth": null,
+            "duration": null,
+            "snr": null
+        },
+        "score": 0.0
+    },
+    {
+        "tic_id": 65042,
+        "sector": 3,
+        "num_candidates": 0,
+        "candidates": [],
+        "period": null,
+        "period_uncertainty": null,
+        "transit_parameters": {
+            "depth": null,
+            "duration": null,
+            "snr": null
+        },
+        "score": 0.0
+    },
+    {
+        "tic_id": 65042,
+        "sector": 5,
+        "num_candidates": 0,
+        "candidates": [],
+        "period": null,
+        "period_uncertainty": null,
+        "transit_parameters": {
+            "depth": null,
+            "duration": null,
+            "snr": null
+        },
+        "score": 0.0
+    },
+    {
+        "tic_id": 65121,
+        "sector": 3,
+        "num_candidates": 0,
+        "candidates": [],
+        "period": null,
+        "period_uncertainty": null,
+        "transit_parameters": {
+            "depth": null,
+            "duration": null,
+            "snr": null
+        },
+        "score": 0.0
+    },
+    {
+        "tic_id": 65121,
+        "sector": 5,
+        "num_candidates": 0,
+        "candidates": [],
+        "period": null,
+        "period_uncertainty": null,
+        "transit_parameters": {
+            "depth": null,
+            "duration": null,
+            "snr": null
+        },
+        "score": 0.0
+    },
+    {
+        "tic_id": 65278,
+        "sector": 1,
+        "num_candidates": 0,
+        "candidates": [],
+        "period": null,
+        "period_uncertainty": null,
+        "transit_parameters": {
+            "depth": null,
+            "duration": null,
+            "snr": null
+        },
+        "score": 0.0
+    },
+    {
+        "tic_id": 65278,
+        "sector": 2,
+        "num_candidates": 0,
+        "candidates": [],
+        "period": null,
+        "period_uncertainty": null,
+        "transit_parameters": {
+            "depth": null,
+            "duration": null,
+            "snr": null
+        },
+        "score": 0.0
+    },
+    {
+        "tic_id": 65278,
+        "sector": 4,
+        "num_candidates": 0,
+        "candidates": [],
+        "period": null,
+        "period_uncertainty": null,
+        "transit_parameters": {
+            "depth": null,
+            "duration": null,
+            "snr": null
+        },
+        "score": 0.0
+    },
+    {
+        "tic_id": 65774,
+        "sector": 4,
+        "num_candidates": 0,
+        "candidates": [],
+        "period": null,
+        "period_uncertainty": null,
+        "transit_parameters": {
+            "depth": null,
+            "duration": null,
+            "snr": null
+        },
+        "score": 0.0
+    },
+    {
+        "tic_id": 68181,
+        "sector": 2,
+        "num_candidates": 0,
+        "candidates": [],
+        "period": null,
+        "period_uncertainty": null,
+        "transit_parameters": {
+            "depth": null,
+            "duration": null,
+            "snr": null
+        },
+        "score": 0.0
+    },
+    {
+        "tic_id": 68181,
+        "sector": 5,
+        "num_candidates": 0,
+        "candidates": [],
+        "period": null,
+        "period_uncertainty": null,
+        "transit_parameters": {
+            "depth": null,
+            "duration": null,
+            "snr": null
+        },
+        "score": 0.0
+    },
+    {
+        "tic_id": 68861,
+        "sector": 2,
+        "num_candidates": 0,
+        "candidates": [],
+        "period": null,
+        "period_uncertainty": null,
+        "transit_parameters": {
+            "depth": null,
+            "duration": null,
+            "snr": null
+        },
+        "score": 0.0
+    },
+    {
+        "tic_id": 68861,
+        "sector": 3,
+        "num_candidates": 0,
+        "candidates": [],
+        "period": null,
+        "period_uncertainty": null,
+        "transit_parameters": {
+            "depth": null,
+            "duration": null,
+            "snr": null
+        },
+        "score": 0.0
+    },
+    {
+        "tic_id": 68861,
+        "sector": 4,
+        "num_candidates": 0,
+        "candidates": [],
+        "period": null,
+        "period_uncertainty": null,
+        "transit_parameters": {
+            "depth": null,
+            "duration": null,
+            "snr": null
+        },
+        "score": 0.0
+    },
+    {
+        "tic_id": 70591,
+        "sector": 2,
+        "num_candidates": 0,
+        "candidates": [],
+        "period": null,
+        "period_uncertainty": null,
+        "transit_parameters": {
+            "depth": null,
+            "duration": null,
+            "snr": null
+        },
+        "score": 0.0
+    },
+    {
+        "tic_id": 70591,
+        "sector": 4,
+        "num_candidates": 0,
+        "candidates": [],
+        "period": null,
+        "period_uncertainty": null,
+        "transit_parameters": {
+            "depth": null,
+            "duration": null,
+            "snr": null
+        },
+        "score": 0.0
+    },
+    {
+        "tic_id": 78323,
+        "sector": 1,
+        "num_candidates": 0,
+        "candidates": [],
+        "period": null,
+        "period_uncertainty": null,
+        "transit_parameters": {
+            "depth": null,
+            "duration": null,
+            "snr": null
+        },
+        "score": 0.0
+    },
+    {
+        "tic_id": 78323,
+        "sector": 2,
+        "num_candidates": 0,
+        "candidates": [],
+        "period": null,
+        "period_uncertainty": null,
+        "transit_parameters": {
+            "depth": null,
+            "duration": null,
+            "snr": null
+        },
+        "score": 0.0
+    },
+    {
+        "tic_id": 78323,
+        "sector": 4,
+        "num_candidates": 0,
+        "candidates": [],
+        "period": null,
+        "period_uncertainty": null,
+        "transit_parameters": {
+            "depth": null,
+            "duration": null,
+            "snr": null
+        },
+        "score": 0.0
+    },
+    {
+        "tic_id": 80242,
+        "sector": 1,
+        "num_candidates": 0,
+        "candidates": [],
+        "period": null,
+        "period_uncertainty": null,
+        "transit_parameters": {
+            "depth": null,
+            "duration": null,
+            "snr": null
+        },
+        "score": 0.0
+    },
+    {
+        "tic_id": 82462,
+        "sector": 1,
+        "num_candidates": 0,
+        "candidates": [],
+        "period": null,
+        "period_uncertainty": null,
+        "transit_parameters": {
+            "depth": null,
+            "duration": null,
+            "snr": null
+        },
+        "score": 0.0
+    },
+    {
+        "tic_id": 82462,
+        "sector": 3,
+        "num_candidates": 0,
+        "candidates": [],
+        "period": null,
+        "period_uncertainty": null,
+        "transit_parameters": {
+            "depth": null,
+            "duration": null,
+            "snr": null
+        },
+        "score": 0.0
+    },
+    {
+        "tic_id": 83601,
+        "sector": 4,
+        "num_candidates": 0,
+        "candidates": [],
+        "period": null,
+        "period_uncertainty": null,
+        "transit_parameters": {
+            "depth": null,
+            "duration": null,
+            "snr": null
+        },
+        "score": 0.0
+    },
+    {
+        "tic_id": 83601,
+        "sector": 5,
+        "num_candidates": 0,
+        "candidates": [],
+        "period": null,
+        "period_uncertainty": null,
+        "transit_parameters": {
+            "depth": null,
+            "duration": null,
+            "snr": null
+        },
+        "score": 0.0
+    },
+    {
+        "tic_id": 91315,
+        "sector": 1,
+        "num_candidates": 0,
+        "candidates": [],
+        "period": null,
+        "period_uncertainty": null,
+        "transit_parameters": {
+            "depth": null,
+            "duration": null,
+            "snr": null
+        },
+        "score": 0.0
+    },
+    {
+        "tic_id": 91315,
+        "sector": 3,
+        "num_candidates": 0,
+        "candidates": [],
+        "period": null,
+        "period_uncertainty": null,
+        "transit_parameters": {
+            "depth": null,
+            "duration": null,
+            "snr": null
+        },
+        "score": 0.0
+    },
+    {
+        "tic_id": 91315,
+        "sector": 5,
+        "num_candidates": 0,
+        "candidates": [],
+        "period": null,
+        "period_uncertainty": null,
+        "transit_parameters": {
+            "depth": null,
+            "duration": null,
+            "snr": null
+        },
+        "score": 0.0
+    },
+    {
+        "tic_id": 95258,
+        "sector": 3,
+        "num_candidates": 0,
+        "candidates": [],
+        "period": null,
+        "period_uncertainty": null,
+        "transit_parameters": {
+            "depth": null,
+            "duration": null,
+            "snr": null
+        },
+        "score": 0.0
+    },
+    {
+        "tic_id": 95258,
+        "sector": 5,
+        "num_candidates": 0,
+        "candidates": [],
+        "period": null,
+        "period_uncertainty": null,
+        "transit_parameters": {
+            "depth": null,
+            "duration": null,
+            "snr": null
+        },
+        "score": 0.0
+    },
+    {
+        "tic_id": 96240,
+        "sector": 3,
+        "num_candidates": 0,
+        "candidates": [],
+        "period": null,
+        "period_uncertainty": null,
+        "transit_parameters": {
+            "depth": null,
+            "duration": null,
+            "snr": null
+        },
+        "score": 0.0
+    },
+    {
+        "tic_id": 97291,
+        "sector": 2,
+        "num_candidates": 0,
+        "candidates": [],
+        "period": null,
+        "period_uncertainty": null,
+        "transit_parameters": {
+            "depth": null,
+            "duration": null,
+            "snr": null
+        },
+        "score": 0.0
+    },
+    {
+        "tic_id": 97291,
+        "sector": 3,
+        "num_candidates": 0,
+        "candidates": [],
+        "period": null,
+        "period_uncertainty": null,
+        "transit_parameters": {
+            "depth": null,
+            "duration": null,
+            "snr": null
+        },
+        "score": 0.0
+    }
+]

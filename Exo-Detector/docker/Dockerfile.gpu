@@ -1,0 +1,63 @@
+# Exo-Detector GPU Dockerfile
+# This Dockerfile creates a container for running the Exo-Detector pipeline
+# with GPU acceleration for training and inference.
+
+# Use NVIDIA CUDA base image
+FROM nvidia/cuda:11.8.0-cudnn8-runtime-ubuntu22.04
+
+# Set environment variables
+ENV PYTHONDONTWRITEBYTECODE=1 \
+    PYTHONUNBUFFERED=1 \
+    PIP_NO_CACHE_DIR=1 \
+    DEBIAN_FRONTEND=noninteractive \
+    PATH="/home/exouser/.local/bin:$PATH"
+
+# Create non-root user for security
+RUN groupadd -r exouser && useradd -r -g exouser -m -d /home/exouser exouser
+
+# Install system dependencies
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    python3.10 \
+    python3-pip \
+    python3-dev \
+    build-essential \
+    git \
+    && apt-get clean \
+    && rm -rf /var/lib/apt/lists/*
+
+# Set working directory
+WORKDIR /app
+
+# Copy requirements files
+COPY requirements.txt requirements-gpu.txt ./
+
+# Install Python dependencies in a single layer
+RUN pip3 install --upgrade pip && \
+    pip3 install --no-cache-dir -r requirements.txt && \
+    pip3 install --no-cache-dir -r requirements-gpu.txt
+
+# Copy application code
+COPY src/ /app/src/
+COPY dashboard/ /app/dashboard/
+
+# Create necessary directories
+RUN mkdir -p /app/data/raw \
+    /app/data/processed \
+    /app/data/transit_windows \
+    /app/data/non_transit_windows \
+    /app/data/synthetic_transits \
+    /app/data/models \
+    /app/data/candidates \
+    /app/data/validation \
+    /app/data/vetting \
+    /app/data/results
+
+# Set permissions
+RUN chown -R exouser:exouser /app
+
+# Switch to non-root user
+USER exouser
+
+# Set default command
+ENTRYPOINT ["python3"]
+CMD ["src/run_phase1.py"]
